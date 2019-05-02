@@ -1,6 +1,4 @@
 <?php
 	$name = 'andy';
-p;
-q
-	$age = 
+	$age = 10;
 ?> 
